@@ -3,9 +3,7 @@
 
 # Site settings
 title: Swiftli
-headline: |
-  Light Logistic Services
-  By [Information Business](http://ib.sa/projects/swiftli)
+headline: Light Logistic Services
 description: Swiftli is an on-demand delivery network that makes getting things in your city more convenient, affordable, and reliable.
 logo: /images/swiftli_logo_white.png
 owner: Information Business # or company name
@@ -13,6 +11,8 @@ first_published: 2016 # if migrating another site, the year of your first publis
 email: swiftli@ib.sa
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://swiftli.io" # the base hostname & protocol for your site
+product-url: http://ib.sa/projects/swiftli
+contact-url: http://ib.sa/#contact
 social:
   twitter: https://twitter.com/<username>
   github: https://github.com/<username>
