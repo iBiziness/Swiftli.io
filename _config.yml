@@ -14,11 +14,11 @@ url: "http://swiftli.io" # the base hostname & protocol for your site
 product-url: http://ib.sa/projects/swiftli
 contact-url: http://ib.sa/#contact
 social:
-  twitter: https://twitter.com/<username>
-  github: https://github.com/<username>
-  linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
-  google-plus-square: https://plus.google.com/u/0/+<username>
+  twitter: https://twitter.com/InforBizness
+  github: https://github.com/iBizness
+  linkedin-square: https://linkedin.com/company/information-business
+  #facebook-official: https://facebook.com/<username>
+  #google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   #flickr:
   #instagram:
